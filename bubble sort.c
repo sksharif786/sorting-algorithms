@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//logic for bubble sort
 void BubbleSort(int a[], int n)
 {
     
