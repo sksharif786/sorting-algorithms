@@ -20,7 +20,7 @@ void BubbleSort(int a[], int n)
         
     }
 }
-
+//print the elements
 void printArray(int a[], int n)
 {
     for (int i = 0; i < n; i++)
